@@ -1,4 +1,4 @@
-## Juice Shop Reviews Analysis
+# Juice Shop Reviews Analysis
 
 # Overview
 The Juice Shop Reviews Analysis project aims to analyze customer reviews from juice shops in Tier 1 and Tier 2 cities in India using the Google Places API and Python data analysis libraries. The analysis focuses on extracting insights from customer feedback to identify areas of improvement and enhance customer satisfaction.
@@ -14,7 +14,7 @@ Python 3.x
 Google Cloud Platform Account with API Key for Google Places API
 Required Python Libraries: pandas, matplotlib, seaborn, textblob, googlemaps
 
-Setup Instructions
+# Setup Instructions
 Clone the repository:
 
 git clone https://github.com/yourusername/juice-shop-reviews-analysis.git
